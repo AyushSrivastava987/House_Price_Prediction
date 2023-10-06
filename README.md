@@ -65,6 +65,20 @@ Efficiently implement and train machine learning models, optimize hyperparameter
 
 ## Outcomes
 
+### Histogram
+ <p align="center">
+  <img src="https://github.com/AyushSrivastava987/House_Price_Prediction/blob/main/Image/Histogram.png" alt="KPI Banner" width="1000" />
+</p>
+### Distribution Variations
+ <p align="center">
+  <img src="https://github.com/AyushSrivastava987/House_Price_Prediction/blob/main/Image/Variation%201.png" alt="KPI Banner" width="1000" />
+</p>
+ <p align="center">
+  <img src="https://github.com/AyushSrivastava987/House_Price_Prediction/blob/main/Image/Variation%202.png" alt="KPI Banner" width="1000" />
+</p>
+ <p align="center">
+  <img src="https://github.com/AyushSrivastava987/House_Price_Prediction/blob/main/Image/Variation%203.png" alt="KPI Banner" width="1000" />
+</p>
 ### Model Effectiveness
 
 After rigorous scrutiny and model assessment:
